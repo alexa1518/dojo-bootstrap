@@ -1,0 +1,8 @@
+{
+  "name": "dojo-bootstrap",
+  "version": "1.1.0",
+  "dependencies": {
+    "bootstrap": "~2.2.1",
+    "dojo": "~1.8.1"
+  }
+}
